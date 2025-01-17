@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # Directories to search for Joomla installations
-search_dirs=("/var/www/*/httpdocs" "/var/www/*/public_html")
+# - OLD does nto work well: search_dirs=("/var/www/*/httpdocs" "/var/www/*/public_html")
+# - simplified version:
+search_dirs=("/var/www/")
 
 # Function to extract Joomla version
 get_joomla_version() {
