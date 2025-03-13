@@ -1,5 +1,11 @@
 #!/bin/bash
 
+####################################################
+#                                                  #
+#         Simple Script J! SMTP info               #
+#         8Dweb LLC / mjs                          #
+#         01/03/2025                               #
+####################################################
 # Directory to search in
 search_dir="/var/www/"
 
