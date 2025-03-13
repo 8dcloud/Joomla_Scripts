@@ -1,7 +1,8 @@
 #!/bin/bash
 ####################################################
 #                                                  #
-#         Simple Script to Find NIC Speed          #
+#         Simple Script to                         #
+#          Disable Admintools on J!                #
 #         8Dweb LLC / mjs                          #
 #         01/03/2025                               #
 ####################################################
