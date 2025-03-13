@@ -1,5 +1,14 @@
 #!/bin/bash
 
+####################################################
+#                                                  #
+#         Simple Script to                         #
+#          Find Joomla Installs                    #
+#          and their Versions                      #
+#         8Dweb LLC / mjs                          #
+#         01/03/2025                               #
+####################################################
+
 # Directories to search for Joomla installations
 # - OLD does nto work well: search_dirs=("/var/www/*/httpdocs" "/var/www/*/public_html")
 # - simplified version:
