@@ -1,5 +1,12 @@
 #!/bin/bash
 
+####################################################
+#                                                  #
+#         Simple Script to Find NIC Speed          #
+#         8Dweb LLC / mjs                          #
+#         01/03/2025                               #
+####################################################
+
 # Search for all Joomla installations and loop through them
 while read -r site; do
 
