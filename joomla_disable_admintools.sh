@@ -1,4 +1,10 @@
 #!/bin/bash
+####################################################
+#                                                  #
+#         Simple Script to Find NIC Speed          #
+#         8Dweb LLC / mjs                          #
+#         01/03/2025                               #
+####################################################
 
 # Function to find Joomla installations and list directories for renaming
 find_and_test() {
