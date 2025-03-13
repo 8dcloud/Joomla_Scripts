@@ -2,7 +2,8 @@
 
 ####################################################
 #                                                  #
-#         Simple Script to Find NIC Speed          #
+#         Simple Script to Find J! instances       #
+#          on Enhance Hosting Panel                #
 #         8Dweb LLC / mjs                          #
 #         01/03/2025                               #
 ####################################################
