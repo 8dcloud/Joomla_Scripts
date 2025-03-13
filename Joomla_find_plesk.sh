@@ -2,7 +2,7 @@
 
 ####################################################
 #                                                  #
-#         Simple Script to Find NIC Speed          #
+#         Simple Script to J! installs on Plesk    #
 #         8Dweb LLC / mjs                          #
 #         01/03/2025                               #
 ####################################################
