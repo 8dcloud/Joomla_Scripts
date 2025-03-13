@@ -1,5 +1,12 @@
 #!/bin/bash
 
+####################################################
+#                                                  #
+#         Simple Script to Find NIC Speed          #
+#         8Dweb LLC / mjs                          #
+#         01/03/2025                               #
+####################################################
+
 # Define the base directory for all websites
 base_dir="/var/www/"
 # Define the output CSV file
